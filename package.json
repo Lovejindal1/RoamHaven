@@ -2,15 +2,23 @@
   "engines": {
     "node": "25.6.0"
   },
-  "name": "project-1-airbnb",
+  "name": "roamhaven",
   "version": "1.0.0",
-  "description": "",
+  "description": "RoamHaven \u2014 Full-Stack Vacation Rental & Geospatial Discovery Platform",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "rental",
+    "airbnb",
+    "mapbox",
+    "express",
+    "mongodb",
+    "mvc",
+    "full-stack"
+  ],
+  "author": "Love Kumar <lkjindal12@gmail.com>",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
